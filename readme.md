@@ -1,3 +1,7 @@
+WARNING!!! NOT READY TO USE
+Yii2 port of https://github.com/zxbodya/yii-gallery-manager
+
+
 Gallery Manager usage instructions
 ===========================
 
