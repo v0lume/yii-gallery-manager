@@ -1,8 +1,8 @@
 {
-    "name": "z_bodya/yii-gallery-manager",
-    "description": "Extension for yii, that allows to manage image galleries",
+    "name": "v0lume/yii2-gallery-manager",
+    "description": "Port of 'zxbodya/yii2-image-attachment'. Extension for yii, that allows to manage image galleries.",
     "keywords": ["image", "gallery"],
-    "type": "yii-extension",
+    "type": "yii2-extension",
     "extra": {
         "installer-name": "galleryManager"
     },
@@ -10,12 +10,13 @@
 
     "authors": [
         {
-            "name": "Bogdan Savluk",
-            "email": "savluk.bogdan@gmail.com"
+            "name": "Artem Shmanovsky",
+            "email": "heads@xakep.ru"
         }
     ],
 
     "require": {
-        "z_bodya/yii-image": "dev-default"
+        "yiisoft/yii2-jui": "*",
+        "yiisoft/yii2-imagine": "*"
     }
 }
