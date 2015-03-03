@@ -1,6 +1,6 @@
 {
     "name": "v0lume/yii2-gallery-manager",
-    "description": "Port of 'zxbodya/yii2-image-attachment'. Extension for yii, that allows to manage image galleries.",
+    "description": "Port of 'zxbodya/yii-gallery-manager'. Extension for yii2, that allows to manage image galleries.",
     "keywords": ["image", "gallery"],
     "type": "yii2-extension",
     "extra": {
